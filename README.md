@@ -2,12 +2,6 @@
 
 # 🌌 Sky ScreenSaver
 
-**Real-time aircraft tracking on your HDMI TV — powered by a Raspberry Pi**
-
-<img src="docs/skylight.png" alt="Sky ScreenSaver — aircraft display on a TV with stars and runways" width="100%">
-
-</div>
-
 ---
 
 Sky ScreenSaver turns a Raspberry Pi and any HDMI TV into a live aircraft display. Every plane flying overhead is shown in real time — labeled with its airline, aircraft type, and destination. Behind the planes, the real sky: stars, constellations, sun, moon, planets, and live satellites (including the ISS), all at their true positions for your location.
